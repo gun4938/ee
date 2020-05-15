@@ -1,2 +1,2 @@
 # ee
-![jenkins](q2_jenkins)
+![jenkins](q2_jenkins.png)
